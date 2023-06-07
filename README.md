@@ -2,10 +2,10 @@
 
 
 #### Technical Skills: 
-    Statistical Analysis, Machine Learning, Deep Learning, Time Series, 
-    Predictive Analytics, Image Processing (OpenCV), Data Visualisation,
-    NLP , AutoML, ML Studio, CI-CD Pipelines, App-Services,Docker, 
-    Python, R, C, C#, SQL, PostgreSQL, MongoDB, Azure-Store
+- `Statistical Analysis` `Machine Learning` `Deep Learning` `Time Series` 
+- `Predictive Analytics` `Image Processing (OpenCV)` `Data Visualisation` 
+- `NLP` `AutoML` `ML Studio` `CI-CD Pipelines` `App-Services` `Docker` 
+- `Python` `R` `C` `C#` `SQL` `PostgreSQL` `MongoDB` `Azure-Store`
 
 
 ## Education
