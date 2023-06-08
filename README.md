@@ -25,5 +25,5 @@
 
 ## Certifications
 - Neural Networks and Deep Learning course | Coursera-Stanford University
-- Data Science Specialization Courses | Coursera. Johns Hopkins University
+- Data Science Specialization Courses | Coursera-Johns Hopkins University
 - Building Deep Learning Applications with Keras 2.0 | LinkedIn Learning 
