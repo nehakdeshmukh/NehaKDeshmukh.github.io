@@ -2,10 +2,11 @@
 Experienced Data Scientist with a strong math background and a passion for machine learning and deep learning. Skilled in predictive modeling, data processing, and machine learning algorithms. Proficient in Python and R and comfortable working with large datasets. Proven track record of delivering results-driven solutions to complex business problems. Looking to excel in machine learning and drive innovation in the field.
 
 ## Technical Skills
-- `Statistical Analysis` `Machine Learning` `Deep Learning` `Time Series` 
-- `Predictive Analytics` `Image Processing (OpenCV)` `Data Visualisation` 
-- `NLP` `AutoML` `ML Studio` `CI-CD Pipelines` `App-Services` `Docker` 
-- `Python` `R` `C` `C#` `SQL` `PostgreSQL` `MongoDB` `Azure-Store`
+- `Statistical Analysis` `Machine Learning` `Deep Learning` `Time Series Forecasting` `Predictive Model Building`
+- `Hypothesis Testin` `Pyspark` `Predictive Analytics` `Image Processing (OpenCV)` `Data Visualisation` `Clustering`
+- `KPI’s` `Data Preprocessing` `EDA` `DataVisualisation` `Flask` `Reinforcement Learning` `NLP`
+- `Supervised Learning` `Unsupervised Learning` `AutoML` `ML Studio` `CI-CD Pipelines` `App-Services` `Docker`
+
 
 
 ## Education
