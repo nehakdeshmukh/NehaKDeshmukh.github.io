@@ -6,6 +6,8 @@ Experienced Data Scientist with a strong math background and a passion for machi
 - `Hypothesis Testin` `Pyspark` `Predictive Analytics` `Image Processing (OpenCV)` `Data Visualisation` `Clustering`
 - `KPI’s` `Data Preprocessing` `EDA` `DataVisualisation` `Flask` `Reinforcement Learning` `NLP`
 - `Supervised Learning` `Unsupervised Learning` `AutoML` `ML Studio` `CI-CD Pipelines` `App-Services` `Docker`
+- `Scikit-learn` `Numpy` `Scipy` `Tensorflow` `Pytorch` `Keras` `Arima`
+- `Python` `R` `C` `C#` `SQL` `PostgreSQL` `MongoDB` `Azure-Store`
 
 
 
