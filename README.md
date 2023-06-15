@@ -8,6 +8,7 @@ Experienced Data Scientist with a strong math background and a passion for machi
 - `Supervised Learning` `Unsupervised Learning` `AutoML` `ML Studio` `CI-CD Pipelines` `App-Services` `Docker`
 - `Scikit-learn` `Numpy` `Scipy` `Tensorflow` `Pytorch` `Keras` `Arima`
 - `Python` `R` `C` `C#` `SQL` `PostgreSQL` `MongoDB` `Azure-Store`
+- `Jupyter notebook` `Pycharm` `Spyder` `VSCode`
 
 
 
