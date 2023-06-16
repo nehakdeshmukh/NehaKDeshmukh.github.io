@@ -14,8 +14,8 @@ Experienced Data Scientist with a strong math background and a passion for machi
 
 
 ## Education
-- M.Tech., Signal Processing (Electronics & Telecommunication) | VIT, Pune (_May 2017_)
-- B.E., Electronics & Telecommunication | GCOERA, Pune (_May 2014_)
+- M.Tech.| Signal Processing (Electronics & Telecommunication) | VIT, Pune (_May 2017_)
+- B.E.   | Electronics & Telecommunication                     | GCOERA, Pune (_May 2014_)
 
 ## Work Experience
 
@@ -33,4 +33,8 @@ Experienced Data Scientist with a strong math background and a passion for machi
 ## Certifications
 - Neural Networks and Deep Learning course | Coursera-Stanford University
 - Data Science Specialization Courses | Coursera-Johns Hopkins University
-- Building Deep Learning Applications with Keras 2.0 | LinkedIn Learning 
+- Building Deep Learning Applications with Keras 2.0 | LinkedIn Learning
+
+## AWARDS
+- ABB Global Digital PA Hackathon - 2021 1st Rank [Team-Work]
+- Team Excellence Award - ABB [Equipment Fault Monitoring Service Project]
