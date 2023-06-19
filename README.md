@@ -28,8 +28,8 @@ Experienced Data Scientist with a strong math background and a passion for machi
 
 **Junior Data Scientist @ Rolta BI and Big Data Analytics (_January 2018 - May 2019_)**
 - Worked on AQI prediction for Varanasi Smart City, measuring air quality, implementing rating system, and conducting analysis.
-- Worked on Rolta [OneView™](https://www.youtube.com/watch?v=WPxfOX0bGX8&ab_channel=Rolta) Product Development; which was providing historical, real-time, descriptive, predictive and           prescriptive analytics using AI-ML.
-- Contributed to the Gas Lift Optimization project for Cairn Energy, the aim was to maximize oil production by determining optimal setpoints for operational parameters. This involved using    the Random Forest Method for predicting oil production, identifying production opportunities based on the predictions, and providing recommended operational setpoints for optimal oil        production. Key   responsibilities included predictive modeling, exploratory data analysis, data processing, model building and testing, and developing an automation script for              deployment.
+- Worked on Rolta [OneView™](https://www.youtube.com/watch?v=WPxfOX0bGX8&ab_channel=Rolta) Product Development; which was providing historical, real-time, descriptive, predictive and          prescriptive analytics using AI-ML.
+- Contributed to the Gas Lift Optimization project for Cairn Energy, I utilized the Random Forest Method to predict oil production and recommended optimal operational setpoints to maximize    oil output. My responsibilities included predictive modeling, data processing, model building, and automation script development for deployment.
 
 ## Certifications
 - Neural Networks and Deep Learning course | Coursera-Stanford University
