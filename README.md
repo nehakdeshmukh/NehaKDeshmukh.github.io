@@ -21,9 +21,10 @@ Experienced Data Scientist with a strong math background and a passion for machi
 
 **Data Scientist & AI Specitalist @ ABB India (_May 2019 - March 2023_)**
 - The work experience includes optimizing equipment maintenance and improving reliability, availability, maintainability, and safety.
-- We implemented automated data analysis and visualization solutions, developed Python modules for data cleaning, model building, deployment on Azure and incorporated newer algorithms for       self-service analytics.
+- We implemented automated data analysis and visualization solutions, developed Python modules for data cleaning, model building, deployment on Azure and incorporated newer algorithms for     self-service analytics.
 - Developed models for tracking motor temperatures and implementing fault detection techniques.
-- Worked on [ABB Ability™ Genix](https://www.youtube.com/watch?v=pcPMHGPuFbI&t=10s&ab_channel=ABBProcessAutomation) Product Development; Genix is an app-based platform that uses advanced       analytics and AI to unlock the potential of your data, providing unparalleled insights.     Make faster, smarter business decisions and transform operations with Genix. 
+- Developed fault detection system using machine learning & signal processing for ABB Genix, analyzing vibration data to identify equipment faults like bearing defects, gear-box issues, &     motor malfunctions, providing early indicators for proactive maintenance.
+- Worked on [ABB Ability™ Genix](https://www.youtube.com/watch?v=pcPMHGPuFbI&t=10s&ab_channel=ABBProcessAutomation) Product Development; Genix is an app-based platform that uses advanced      analytics and AI to unlock the potential of your data, providing unparalleled insights. Make faster, smarter business decisions and transform operations with Genix. 
 - Overall, my expertise lies in data analysis, preprocessing, and model development to enhance equipment performance and prevent failures.
 
 **Junior Data Scientist @ Rolta BI and Big Data Analytics (_January 2018 - May 2019_)**
