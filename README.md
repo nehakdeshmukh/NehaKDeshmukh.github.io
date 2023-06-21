@@ -24,6 +24,9 @@ Experienced Data Scientist with a strong math background and a passion for machi
 - We implemented automated data analysis and visualization solutions, developed Python modules for data cleaning, model building, deployment on Azure and incorporated newer algorithms for     self-service analytics.
 - Developed models for tracking motor temperatures and implementing fault detection techniques.
 - Developed fault detection system using machine learning & signal processing for ABB Genix, analyzing vibration data to identify equipment faults like bearing defects, gear-box issues, &     motor malfunctions, providing early indicators for proactive maintenance.
+- Implemented plant-wide control strategy using expert-augmented neural network machine learning framework for DOW's Estman Tennessee process. Developed anomaly detection model to identify 
+  abnormal behavior and provided automated recommendations for system stabilization. Responsible for statistical data analysis, data validation, neural network development, anomaly 
+  detection, and automatic recommendation generation.
 - Worked on [ABB Ability™ Genix](https://www.youtube.com/watch?v=pcPMHGPuFbI&t=10s&ab_channel=ABBProcessAutomation) Product Development; Genix is an app-based platform that uses advanced      analytics and AI to unlock the potential of your data, providing unparalleled insights. Make faster, smarter business decisions and transform operations with Genix. 
 - Overall, my expertise lies in data analysis, preprocessing, and model development to enhance equipment performance and prevent failures.
 
