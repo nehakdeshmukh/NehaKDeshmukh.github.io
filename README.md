@@ -14,8 +14,8 @@ Experienced Data Scientist with a strong math background and a passion for machi
 
 
 ## Education
-- M.Tech.| Signal Processing (Electronics & Telecommunication) | VIT, Pune (_May 2017_)
-- B.E.   | Electronics & Telecommunication                     | GCOERA, Pune (_May 2014_)
+- Masters of Technology     | Signal Processing (Electronics & Telecommunication) | VIT, Pune (_May 2017_)
+- Bachelor of Engineering   | Electronics & Telecommunication                     | GCOERA, Pune (_May 2014_)
 
 ## Work Experience
 
