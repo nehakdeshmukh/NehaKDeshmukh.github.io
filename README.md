@@ -3,7 +3,7 @@ Experienced Data Scientist with a strong math background and a passion for machi
 
 ## Technical Skills
 - `Python` `R` `C` `C#` `SQL` `PostgreSQL` `MongoDB` `Azure-Store` `CRATE DB` `CLI` `Git`
-- `Statistical Analysis` `Machine Learning` `Deep Learning` `Time Series Forecasting` 
+- `Statistical Analysis` `Machine Learning` `Deep Learning` `Time Series Forecasting` `Azure Kubernetes Service`
 - `Predictive Model Building` `Hypothesis Testing` `Apache Spark` `Predictive Analytics` `Optimization`
 - `Image Processing (OpenCV)` `Data Visualisation` ` Cluster Analysis` `Data Preprocessing` `Pattern Recognition`
 - `KPI’s` `EDA` `Data Visualisation` `Flask` `Reinforcement Learning` `NLP` `Docker` 
