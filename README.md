@@ -6,7 +6,7 @@ Experienced Data Scientist with a strong math background and a passion for machi
 - `Statistical Analysis` `Machine Learning` `Deep Learning` `Time Series Forecasting` 
 - `Predictive Model Building` `Hypothesis Testing` `Apache Spark` `Predictive Analytics` 
 - `Image Processing (OpenCV)` `Cluster Analysis` `Data Preprocessing` `Pattern Recognition`
-- `KPI’s` `EDA` `Data Visualization` `Flask` `Reinforcement Learning` `NLP` `Arima` 
+- `KPI’s` `EDA` `Data Visualization` `Flask` `Reinforcement Learning` `NLP` `Arima`  
 - `Supervised Learning` `Unsupervised Learning` `AutoML` `CI-CD Pipelines` `Optimization`
 - `App-Services` `Scikit-learn` `Numpy` `Scipy` `Tensorflow` `Pytorch` `Keras` 
 - `Azure Kubernetes Service` `Azure ML Studio` `Azure DevOps` `Docker` `Linux` `Putty`
@@ -15,8 +15,8 @@ Experienced Data Scientist with a strong math background and a passion for machi
 
 
 ## Education
-- Masters of Technology     | Signal Processing (Electronics & Telecommunication) | VIT, Pune (_May 2017_)
-- Bachelor of Engineering   | Electronics & Telecommunication                     | GCOERA, Pune (_May 2014_)
+- Masters of Technology   | Signal Processing (Electronics & Telecommunication) | VIT, Pune, India (_May 2017_)
+- Bachelor of Engineering | Electronics & Telecommunication                     | GCOERA, Pune, India (_May 2014_)
 
 ## Work Experience
 
