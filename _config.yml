@@ -3,6 +3,7 @@ description: Data Scientist
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+markdown: GFM
 
 
 #theme: jekyll-theme-minimal
