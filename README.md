@@ -41,6 +41,7 @@ Experienced Data Scientist with a strong math background and a passion for machi
 ## Certifications
 - Neural Networks and Deep Learning course | Coursera-Stanford University
 - Data Science Specialization Courses | Coursera-Johns Hopkins University
+- Deep Learning: Getting Started | LinkedIn Learning
 - Building Deep Learning Applications with Keras 2.0 | LinkedIn Learning
 
 ## AWARDS
