@@ -15,7 +15,7 @@ Experienced Data Scientist with a strong math background and a passion for machi
 
 
 ## Education
-| Degree | Stream | College, City, Country (Year) |
+| Degree | Field of Study | College, City, Country (Year) |
 | :---------------: | :---------------: | :-------------: |
 | Masters of Technology | Signal Processing (Electronics & Telecommunication) | VIT, Pune, India (_May 2017_) 
 | Bachelor of Engineering | Electronics & Telecommunication | GCOERA, Pune, India (_May 2014_) 
