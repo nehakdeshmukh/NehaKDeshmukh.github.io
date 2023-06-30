@@ -10,7 +10,7 @@ Proven track record of delivering results-driven solutions to complex business p
 - `Image Processing (OpenCV)` `Cluster Analysis` `Data Preprocessing` `Pattern Recognition`
 - `KPI’s` `EDA` `Data Visualization` `Flask` `Reinforcement Learning` `NLP` `Arima`  
 - `Supervised Learning` `Unsupervised Learning` `AutoML` `CI-CD Pipelines` `Optimization`
-- `App-Services` `Scikit-learn` `Numpy` `Scipy` `Tensorflow` `PyTorch` `Keras` 
+- `App-Services` `Scikit-learn` `Numpy` `Scipy` `Tensorflow` `PyTorch` `Keras` `Pandas`
 - `Azure Kubernetes Service` `Azure ML Studio` `Azure DevOps` `Docker` `Linux` `Putty`
 - `Jupyter Notebook` `Pycharm` `Spyder` `VSCode`
 
