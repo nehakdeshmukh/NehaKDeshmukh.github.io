@@ -10,17 +10,17 @@ Proven track record of delivering results-driven solutions to complex business p
 - `Image Processing (OpenCV)` `Cluster Analysis` `Data Preprocessing` `Pattern Recognition`
 - `KPI’s` `EDA` `Data Visualization` `Flask` `Reinforcement Learning` `NLP` `Arima`  
 - `Supervised Learning` `Unsupervised Learning` `AutoML` `CI-CD Pipelines` `Optimization`
-- `App-Services` `Scikit-learn` `Numpy` `Scipy` `Tensorflow` `Pytorch` `Keras` 
+- `App-Services` `Scikit-learn` `Numpy` `Scipy` `Tensorflow` `PyTorch` `Keras` 
 - `Azure Kubernetes Service` `Azure ML Studio` `Azure DevOps` `Docker` `Linux` `Putty`
-- `Jupyter notebook` `Pycharm` `Spyder` `VSCode`
+- `Jupyter Notebook` `Pycharm` `Spyder` `VSCode`
 
 
 
 ## Education
 | Degree | Field of Study | College, City, Country (Year) |
 | :---------------: | :---------------: | :-------------: |
-| Masters of Technology | Signal Processing (Electronics & Telecommunication) | VIT, Pune, India \(_May 2017_) 
-| Bachelor of Engineering | Electronics & Telecommunication | GCOERA, Pune, India \(_May 2014_) 
+| Masters of Technology | Signal Processing (Electronics & Telecommunication) | VIT, Pune, India (_May 2017_) 
+| Bachelor of Engineering | Electronics & Telecommunication | GCOERA, Pune, India (_May 2014_) 
 
 ## Work Experience
 
