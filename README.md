@@ -19,8 +19,8 @@ Proven track record of delivering results-driven solutions to complex business p
 ## Education
 | Degree | Field of Study | College, City, Country (Year) |
 | :--------------: | :-----------------------: | :-------------: |
-| Masters of Technology | Signal Processing (Electronics & Telecommunication) | VIT, Pune, India (_May 2017_) 
-| Bachelor of Engineering | Electronics & Telecommunication | GCOERA, Pune, India (_May 2014_) 
+| Masters of Technology | Electronics & Telecommunication | Pune University, India (_May 2017_) 
+| Bachelor of Engineering | Electronics & Telecommunication | Pune University, India (_May 2014_) 
 
 ## Work Experience
 
