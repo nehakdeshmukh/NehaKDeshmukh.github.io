@@ -23,6 +23,13 @@ Proven track record of delivering results-driven solutions to complex business p
 | Bachelor of Engineering | Electronics & Telecommunication | Pune University, India (_May 2014_) 
 
 ## Work Experience
+**Data Scientist & Al Specialist @ TEAMCAL.AI Palo Alto, California (Remote) (_Oct 2023 - now)**
+•	Meet-AI Chatbot Development: 
+•	Developed an AI-driven chatbot dedicated to streamlined meeting scheduling, updates, and cancellations.
+•	Engineered a user-centric conversational interface, enabling 82% accuracy in interpreting and executing user commands for scheduling, updating, or canceling meetings using NLP algorithms.
+•	Leveraged natural language processing (NLP) algorithms for intent recognition and processing, empowering the chatbot to interpret and execute user commands accurately.
+•	Enabled the chatbot to efficiently manage meeting schedules, process user requests for updates or cancellations, and confirm changes interactively.
+•	The chatbot's seamless adaptability led to a 70% decrease in users' time spent scheduling, modifying meetings.
 
 **Data Scientist & AI Specitalist @ ABB India (_May 2019 - March 2023_)**
 - The work experience includes optimizing equipment maintenance and improving reliability, availability, maintainability, and safety.
