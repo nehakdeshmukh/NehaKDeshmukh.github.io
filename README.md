@@ -5,14 +5,14 @@ Proven track record of delivering results-driven solutions to complex business p
 
 ## Technical Skills
 - `Python` `R` `C` `C#` `SQL` `PostgreSQL` `MongoDB` `Azure-Store` `CRATE DB` `CLI` `Git`
-- `Statistical Analysis` `Machine Learning` `Deep Learning` `Time Series Forecasting` 
-- `Predictive Model Building` `Hypothesis Testing` `Apache Spark` `Predictive Analytics` 
+- `Statistical Analysis` `Machine Learning` `Deep Learning` `Time Series Forecasting` `ChatBot`
+- `Predictive Model Building` `Hypothesis Testing` `PySpark` `Predictive Analytics` 
 - `Image Processing (OpenCV)` `Cluster Analysis` `Data Preprocessing` `Pattern Recognition`
-- `KPI’s` `EDA` `Data Visualization` `Flask` `Reinforcement Learning` `NLP` `Arima`  
+- `KPI’s` `EDA` `Data Visualization` `Flask` `Reinforcement Learning` `NLP` `Arima` `Tableau`
 - `Supervised Learning` `Unsupervised Learning` `AutoML` `CI-CD Pipelines` `Optimization`
 - `App-Services` `Scikit-learn` `Numpy` `Scipy` `Tensorflow` `PyTorch` `Keras` `Pandas`
 - `Azure Kubernetes Service` `Azure ML Studio` `Azure DevOps` `Docker` `Linux` `Putty`
-- `Jupyter Notebook` `Pycharm` `Spyder` `VSCode`
+- `Jupyter Notebook` `Pycharm` `Spyder` `VSCode` `RStudio`
 
 
 
