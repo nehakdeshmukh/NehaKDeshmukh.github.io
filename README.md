@@ -6,7 +6,7 @@ Proven track record of delivering results-driven solutions to complex business p
 ## Technical Skills
 - `Python` `R` `C` `C#` `SQL` `PostgreSQL` `MongoDB` `Azure-Store` `CRATE DB` `CLI` `Git`
 - `Statistical Analysis` `Machine Learning` `Deep Learning` `Time Series Forecasting` `ChatBot`
-- `Predictive Model Building` `Hypothesis Testing` `PySpark` `Predictive Analytics` 
+- `Predictive Model Building` `Hypothesis Testing` `PySpark` `Predictive Analytics` `RabbitMQ`
 - `Image Processing (OpenCV)` `Cluster Analysis` `Data Preprocessing` `Pattern Recognition`
 - `KPI’s` `EDA` `Data Visualization` `Flask` `Reinforcement Learning` `NLP` `Arima` `Tableau`
 - `Supervised Learning` `Unsupervised Learning` `AutoML` `CI-CD Pipelines` `Optimization`
@@ -23,10 +23,10 @@ Proven track record of delivering results-driven solutions to complex business p
 | Bachelor of Engineering | Electronics & Telecommunication | Pune University, India (_May 2014_) 
 
 ## Work Experience
-**Data Scientist & Al Specialist @ TEAMCAL.AI Palo Alto, California (Remote) (_Oct 2023 - now)**
+**Data Scientist & Al Specialist @ TEAMCAL.AI Palo Alto, California (Remote) (_Oct 2023 - now_)**
 -	Meet-AI Chatbot Development: 
 -	Developed an AI-driven chatbot dedicated to streamlined meeting scheduling, updates, and cancellations.
--	Engineered a user-centric conversational interface, enabling 82% accuracy in interpreting and executing user commands for scheduling, updating, or canceling meetings using NLP algorithms.
+-	Engineered a user-centric conversational interface, enabling 95% accuracy in interpreting and executing user commands for scheduling, updating, or canceling meetings using NLP algorithms.
 -	Leveraged natural language processing (NLP) algorithms for intent recognition and processing, empowering the chatbot to interpret and execute user commands accurately.
 -	Enabled the chatbot to efficiently manage meeting schedules, process user requests for updates or cancellations, and confirm changes interactively.
 -	The chatbot's seamless adaptability led to a 70% decrease in users' time spent scheduling, modifying meetings.
@@ -54,6 +54,15 @@ Proven track record of delivering results-driven solutions to complex business p
 - Tableau for Data Scientists | LinkedIn Learning
 - Building Deep Learning Applications with Keras 2.0 | LinkedIn Learning
 
-## AWARDS
+## Awards
 - ABB Global Digital PA Hackathon - 2021 1st Rank [Team-Work]
 - Team Excellence Award - ABB [Equipment Fault Monitoring Service Project]
+
+## Connect with Me
+
+<p>
+<!--https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github>
+
+<a href="https://www.linkedin.com/in/neha-aher-deshmukh/"><img src="https://img.shields.io/badge/-nehadeshmukh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nehakdeshmukh.5@gmail.com"><img src="https://img.shields.io/badge/-nehakdeshmukh.5@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
