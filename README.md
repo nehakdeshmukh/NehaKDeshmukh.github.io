@@ -59,10 +59,6 @@ Proven track record of delivering results-driven solutions to complex business p
 - Team Excellence Award - ABB [Equipment Fault Monitoring Service Project]
 
 ## Connect with Me
-
-<p>
-<!--https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github>
-
-<a href="https://www.linkedin.com/in/neha-aher-deshmukh/"><img src="https://img.shields.io/badge/-nehadeshmukh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nehakdeshmukh.5@gmail.com"><img src="https://img.shields.io/badge/-nehakdeshmukh.5@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+- [https://img.shields.io/badge/-nehadeshmukh-0077B5?style=flat&logo=Linkedin&logoColor=white](https://www.linkedin.com/in/neha-aher-deshmukh/)
+- [https://https://img.shields.io/badge/-nehakdeshmukh-181717?style=for-the-badge&logo=github](https://github.com/nehakdeshmukh)
+- [https://img.shields.io/badge/-nehakdeshmukh.5@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white](nehakdeshmukh.5@gmail.com)
