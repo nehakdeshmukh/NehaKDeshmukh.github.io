@@ -48,6 +48,7 @@ Proven track record of delivering results-driven solutions to complex business p
 - Contributed to the Gas Lift Optimization project for Cairn Energy, I utilized the Random Forest Method to predict oil production and recommended optimal operational setpoints to maximize    oil output. My responsibilities included predictive modeling, data processing, model building, and automation script development for deployment.
 
 ## Certifications
+- Career Essentials in Generative AI by Microsoft and LinkedIn | LinkedIn Learning
 - Neural Networks and Deep Learning course | Coursera-Stanford University
 - Data Science Specialization Courses | Coursera-Johns Hopkins University
 - Deep Learning: Getting Started | LinkedIn Learning
