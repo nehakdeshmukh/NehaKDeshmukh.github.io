@@ -1,7 +1,5 @@
 # Neha Deshmukh | Data Scientist
-Experienced Data Scientist with a strong math background and a passion for machine learning and deep learning. 
-Skilled in predictive modeling, data processing, and machine learning algorithms. Proficient in Python and R and comfortable working with large datasets. 
-Proven track record of delivering results-driven solutions to complex business problems. 
+Data Scientist with 5+ years of expertise in advanced statistical techniques, machine learning algorithms, and data visualization. Proficient in Python and R for data manipulation and modeling. Strong track record of delivering actionable insights and driving data-driven decision-making. Passionate about leveraging data to fuel business growth and innovation. 
 
 ## Technical Skills
 - `Python` `R` `C` `C#` `SQL` `PostgreSQL` `MongoDB` `Azure-Store` `CRATE DB` `CLI` `Git`
